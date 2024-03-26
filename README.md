@@ -1,5 +1,5 @@
 # OpenAI Assistants API Chat Application
-```
+
 
 
 This is a simple chat application that integrates with OpenAI's Assistants API to generate responses based on user inputs and uploaded documents. The application allows users to upload files, scrape website content, and initiate a chat session with the AI assistant.
@@ -17,17 +17,20 @@ To run this application locally, follow these steps:
 
 1. Clone the repository:
 
+
 ```
 git clone https://github.com/<username>/openai-assistants-chat.git
 ```
 
 2. Navigate to the project directory:
 
+
 ```
 cd openai-assistants-chat
 ```
 
 3. Install the required dependencies:
+
 
 ```
 pip install -r requirements.txt
@@ -39,8 +42,8 @@ pip install -r requirements.txt
 
 ```
 streamlit run app.py
-```
 
+```
 ## Usage
 
 1. Upon running the application, you will see a sidebar with configuration options and additional features.
@@ -57,6 +60,5 @@ This application was created using Streamlit for the user interface and OpenAI's
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
 
-Feel free to customize the README further based on your preferences and additional details about the application.
+
